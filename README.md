@@ -27,6 +27,9 @@ The implementation of the optimization model is done using Python and the PuLP l
 After solving the optimization model, the results show the optimal number of units of each product that should be produced to achieve maximum profit. The project also includes visualization of the results using simple graphs to make the insights easier to understand. From the results, valuable business insights can be derived, such as how resources should be allocated and which product contributes more to profitability.
 
 Overall, this project demonstrates how optimization techniques and Python programming can be used to support data-driven business decision-making. The approach presented in this project can be extended to more complex scenarios such as supply chain optimization, transportation planning, inventory management, and workforce scheduling. By applying these techniques, businesses can improve operational efficiency, reduce costs, and maximize profitability.
+
+Outout of the task:
+
 <img width="1204" height="726" alt="Image" src="https://github.com/user-attachments/assets/82b272cc-8289-4bc4-a41e-f453c646788b" />
 
 <img width="1310" height="710" alt="Image" src="https://github.com/user-attachments/assets/c6e8fbff-bce3-4256-b778-10e6a66e7466" />
