@@ -28,7 +28,7 @@ After solving the optimization model, the results show the optimal number of uni
 
 Overall, this project demonstrates how optimization techniques and Python programming can be used to support data-driven business decision-making. The approach presented in this project can be extended to more complex scenarios such as supply chain optimization, transportation planning, inventory management, and workforce scheduling. By applying these techniques, businesses can improve operational efficiency, reduce costs, and maximize profitability.
 
-Outout of the task:
+Output of the task:
 
 <img width="1204" height="726" alt="Image" src="https://github.com/user-attachments/assets/82b272cc-8289-4bc4-a41e-f453c646788b" />
 
